@@ -1,4 +1,4 @@
-# cs224
+# CS224n
 
 Course link :- https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/
 
